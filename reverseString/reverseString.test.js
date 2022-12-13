@@ -8,4 +8,3 @@ test('reverses single word', () => {
     expect(reverseString('hello there')).toEqual('ereht olleh')
   })
 
-  
