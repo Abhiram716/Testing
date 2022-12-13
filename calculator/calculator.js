@@ -18,8 +18,8 @@ const power = function (a, b) {
 };
 
 module.exports = {
-    add,
-    subtract,
-    power,
-    factorial
+  add,
+  subtract,
+  power,
+  factorial,
 };
